@@ -9,3 +9,5 @@ Ora,
 Spazio libero dell'HDD (percentuale e GB),
 Velocità di Download (al momento dell'aggiornamento),
 File Completi.
+
+Crea un file di LOG registrando i riavvi.
